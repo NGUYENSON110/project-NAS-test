@@ -1,0 +1,159 @@
+.boss{
+    width: 1000px;
+    margin: 0px auto;
+}
+.header{
+    width: 100%;
+    height: 89px;
+    margin: 0px;
+}
+.end_header{
+    /* background-image: url("../Img/Home_2.jpg"); */
+    width: auto;
+    height: 500px;
+    margin: 40px 0px;
+}
+.end_header img{
+    width: 100%;
+}
+.end_header_text{
+    position: absolute;
+    top: 338px;
+    color: #ffffff;
+    width: 430px;
+    margin-left: 20px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+}
+.end_header_text_one{
+    position: absolute;
+    top: 360px;
+    color: #ffffff;
+    width: 555px;
+    margin-left: 20px;
+    font-family: Arial;
+    font-size: 37px;
+    font-weight: bold;
+}
+.end_header a{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgb(255, 48, 48); 
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    position: absolute;
+    top: 490px;
+    margin-left: 15px;
+    text-decoration: none;
+}
+.logo{
+    float: left;
+}
+.list ul{
+    list-style: none;
+}
+.list ul li{
+    float: left;
+    margin-top: 28px;
+    border-right: 0.5px solid #ffffff;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center; 
+}
+.list ul li a{
+    text-decoration: none;
+    /* color: #ffffff; */
+    color: black;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+}
+.login ul li{
+    float: right;
+    margin-top: 28px;
+    list-style: none;
+    border-right: 0.5px solid #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 48, 48); 
+}
+.login ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer{
+    width: 1000px;
+    height: 415px;
+    margin-top: 50px;
+    background: #151515;
+}
+.footer_one{
+    width: 325px;
+    height: 415px;
+    border-right: 1px solid #ffffff;
+    float: left;
+}
+.footer_one img{
+    margin: 30px;
+}
+.footer_two{
+    width: 340px;
+    height: 415px;
+    border-right: 1px solid #ffffff;
+    float: left;
+}
+.footer_three{
+    width: 325px;
+    float: left;
+}
+
+.text_three{
+    color: #ffffff;
+    margin: 30px;
+    font-size: 17px;
+    font-family: Arial;
+}
+
+nav {
+    text-align: center;
+}
+form p{
+    text-align: center;
+    padding: 8px;
+    margin: auto;
+}
+.pass{
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 13px;
+}
+.login_1{
+    margin-right: 60px;
+    padding: 15px 70px;
+    border-radius: 15px;
+    background-color:#BCBDBD;
+    border: none;
+    outline: none;
+    color:black;
+    text-align: center;
+}
+.acd{
+    text-align:center;
+    padding-left: 70px;
+
+}
+.list ul li a:hover{
+    background-color: whitesmoke;
+    color: blueviolet  ;
+}
+.warning{
+    color:red;
+}

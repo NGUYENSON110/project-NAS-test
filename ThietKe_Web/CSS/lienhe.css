@@ -1,0 +1,154 @@
+section{
+  width: auto;
+  height: 250px;
+}
+.end_header{
+    width: auto;
+    height: 500px;
+    margin: 40px 0px;
+}
+.end_header img{
+    width: 100%;   
+}
+.end_header_text{
+    text-align: center ;
+    /* padding-left: 300px;
+    padding-right: 300px; */
+    position: absolute;
+    top: 338px;
+    color: #ffffff;
+    width: 500px;
+    margin-left: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+body {
+    color: #383838;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  section{
+    padding: 2px;
+    width: 40%;
+    margin-top: 5px;
+  }
+  .section{
+    margin: 0px 0px 400px 0px;
+    width: 1000px;
+  }
+  .section label{
+      padding-left: 4.5ch;
+      font-size: 50px;
+  }
+  .section h3{
+      text-align: center;
+  }
+  .section p{
+      text-align: center;
+  }
+  .section_1{
+    float: left;
+    width: 300px;
+    margin: 0px 33.33px 0px 0px;
+  }
+ .form{
+    padding: 2px;
+    width: 40%;
+ }
+ 
+  .clearfix {
+    zoom: 1;
+  }
+  .clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+  } 
+  .aside_1 {
+    float: left;
+    width: 40px;
+  }
+   .aside_2 {
+    float: right;
+    width: 40%;
+  }
+.aside_2 h2  {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 10px 0 12px;
+    text-transform: uppercase;
+  }
+.aside_2 p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.aside_3 {
+    margin-bottom: 18px;
+  }
+.aside_2 label {
+    margin-bottom: 30px;
+  }
+  .font_1{
+    border-radius: 15px;
+    font-size: 32px;
+}
+.font_2{
+    border-radius: 15px;
+    font-size: 34px;
+}
+form label{
+    font-size: 25px;
+     margin: auto;
+}
+.login_1{
+    padding: 15px 70px;
+    border-radius: 15px;
+    background-color:#BCBDBD;
+    border: none;
+    outline: none;
+    color:black;
+    text-align: center;
+}
+
+.footer{
+  width: 1000px;
+  height: 415px;
+  margin-top: 50px;
+  background: #151515;
+}
+.footer_one{
+  width: 325px;
+  height: 415px;
+  border-right: 1px solid #ffffff;
+  float: left;
+}
+.footer_one img{
+  margin: 30px;
+}
+.footer_two{
+  width: 340px;
+  height: 415px;
+  border-right: 1px solid #ffffff;
+  float: left;
+}
+.footer_three{
+  width: 325px;
+  float: left;
+}
+
+.text_three{
+  color: #ffffff;
+  margin: 30px;
+  font-size: 17px;
+  font-family: Arial;
+}
+
+.list ul li a:hover{
+  background-color: whitesmoke;
+  color: blueviolet  ;
+}
